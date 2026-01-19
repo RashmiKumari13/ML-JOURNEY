@@ -19,6 +19,7 @@ If something is here, it means:
 I studied it, implemented it, and learned from it.
 
 📚 Topics Covered (Growing Over Time)
+
   1️⃣ Python for ML
   2️⃣ NumPy
   3️⃣ Pandas
@@ -47,4 +48,5 @@ This repo is a reflection of that journey.
 ⚠️ Disclaimer
 This is a learning repository, not a production system.
 Code quality improves over time as my understanding deepens.
+
 
