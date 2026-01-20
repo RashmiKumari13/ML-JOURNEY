@@ -66,9 +66,23 @@ asyncio.run(speak())
 
 import os  #  os inbuilt library h python me 
 path = "E:/ML/python/Python_ChapterWise_Notes/code/ch-1to5"  #path h humare directory ka
-contents = os.listdir(path)
+contents = os.listdir(path)   #list krega directory 
 print("Contents of the directory:")   
 for item in contents:
     print(item)       #list de dega sare 
 
 
+p1="ram"
+p2="sam"
+word=input("enter word:")
+if((p1 in word) or (p2 in word)):
+    print("TRUE")
+else:
+    print("FALSE")
+
+for i in range(64):
+    pass
+i=0
+while(i<45):
+    print(i)
+    i+=1
