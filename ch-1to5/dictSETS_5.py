@@ -21,7 +21,7 @@ value and use key as their names. Assume that the names are unique.
 9. Can you change the values inside a list which is contained in set S? 
 s = {8, 7, 12, "Harry", [1,2]}
 """
-"""
+
 lang={
     "मित्र":"friend",
     "करुणा":"compassion",
@@ -61,7 +61,7 @@ print(type(s))
 
 s={}
 print(type(s))
-"""
+
 emptydict={ }
 
 for i in range(0,4):
