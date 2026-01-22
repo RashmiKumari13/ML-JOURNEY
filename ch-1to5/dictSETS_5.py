@@ -72,3 +72,10 @@ for j in range(0,4):
     j+=1
 
 print("dictionary:",emptydict.add({"i":"j"}))
+
+
+
+s = {8, 7, 12, "Harry", [1,2]}
+s.remove(8)
+s.add(99)
+print(s)
